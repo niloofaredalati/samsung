@@ -1,0 +1,368 @@
+div.wrapper>div.latest-offers{
+    width: 1440px;
+    height: 902px;
+    background-color: white;
+    margin-left: 39.5px;
+  
+ }
+div.wrapper>div.latest-offers>div.text{
+    width: 1440px; 
+    height: 170px; 
+    padding-top: 45px;
+}
+div.wrapper>div.latest-offers>div.text>h1{
+      text-align: center;
+      font-size: 38px;
+      font-family: samsungsans;
+      color: black;
+}
+div.wrapper>div.latest-offers>div.text>div.menu2{
+      width: 1440px;
+      height: 58px;
+      display: inline-block;
+      vertical-align: top;
+      padding-left: 35px;
+}
+div.wrapper>div.latest-offers>div.text>div.menu2>nav{
+      width: 100%;
+}
+div.wrapper>div.latest-offers>div.text>div.menu2>nav>ul{
+      width: 100%;
+}
+div.wrapper>div.latest-offers>div.text>div.menu2>nav>ul>li{
+      height: 58px;
+      display: inline-block;
+      vertical-align: top;
+      padding-left: 40px;
+      padding-top: 28px;
+      
+}
+div.wrapper>div.latest-offers>div.text>div.menu2>nav>ul>li>a{
+      font-size: 16px;
+      color: black;
+      font-family: samsungsans;
+      
+}
+div.wrapper>div.latest-offers>div.text>div.menu2>nav>ul>li:nth-of-type(1)>a{
+      text-decoration: underline;
+      padding-left: 320px;
+}
+div.wrapper>div.latest-offers>div.pictures{
+    width: 1440px;
+    height: 708px;
+    position: relative;
+    padding-left: 30px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1{
+    width: 330px;
+    height: 330px;
+    background-color: #f5f5f5;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-image: url(../img/lastest-offers/SDSAC-7411-S24-Plus-HP-MM-SmallTile-DT-330x330.jpg);
+} 
+div.wrapper>div.latest-offers>div.pictures>div.box2{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    background-image: url(../img/lastest-offers/SDSAC-7411-Buds2-Pro-HP-MM-SmallTile-DT-330x330.jpg);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3{
+    width: 680px;
+    height: 680px;
+    border-radius: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 380px;
+    background-image: url(../img/lastest-offers/SDSAC-7411-Fold5-KV-HP-MM-LargeTile-DT-684x684.jpg);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 1080px;
+    background-image: url(../img/lastest-offers/1SDSAC-7411-S24-Ultra-HP-MM-SmallTile-DT-330x330.jpg);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5{
+     width: 330px;
+     height: 330px;
+     border-radius: 20px;
+     position: absolute;
+     top: 350px;
+     left: 1080px;
+     background-image: url(../img/lastest-offers/SDSAC-7411-Watch6-Series-HP-MM-SmallTile-DT-330x330.jpg);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>div.name{
+    width: 298px;
+    height: 48px;
+    position: absolute;
+    top: 210px;
+    left: 46px;
+    line-height: 48px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>div.name>p{
+    font-family: samsungsans;
+    font-size: 16px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>div.text{
+    width: 298px;
+    height: 19px;
+    position: absolute;
+    top: 258px;
+    left: 46px;
+    line-height: 19px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>div.text>p{
+    font-family: samsungsans;
+    font-size: 12px;
+    color: rgb(86, 86, 86);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>div.name{
+    width: 298px;
+    height: 48px;
+    position: absolute;
+    top: 560px;
+    left: 46px;
+    line-height: 48px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>div.name>p{
+    font-family: samsungsans;
+    font-size: 16px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>div.text{
+    width: 298px;
+    height: 19px;
+    position: absolute;
+    top: 608px;
+    left: 46px;
+    line-height: 19px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>div.text>p{
+    font-family: samsungsans;
+    font-size: 10px;
+    color: rgb(86, 86, 86);
+
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>div.name{
+    width: 298px;
+    height: 48px;
+    position: absolute;
+    top: 210px;
+    left: 16px;
+    line-height: 48px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>div.name>p{
+    font-family: samsungsans;
+    font-size: 16px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>div.text{
+    width: 298px;
+    height: 19px;
+    position: absolute;
+    top: 258px;
+    left: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>div.text>p{
+    font-family: samsungsans;
+    font-size: 12px;
+    color: rgb(86, 86, 86);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>div.name{
+    width: 298px;
+    height: 48px;
+    position: absolute;
+    top: 210px;
+    left: 16px;
+    line-height: 48px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>div.name>p{
+    font-family: samsungsans;
+    font-size: 16px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>div.text{
+    width: 298px;
+    height: 19px;
+    position: absolute;
+    top: 258px;
+    left: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>div.text>p{
+    font-family: samsungsans;
+    font-size: 10px;
+    color: rgb(86, 86, 86);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>div.name{
+    width: 400px;
+    height: 32px;
+    position: absolute;
+    top: 562px;
+    left: 140px;
+    line-height: 48px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>div.name>p{
+    font-family: samsungsans;
+    font-size: 20px;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>div.text{
+    width: 400px;
+    height: 56px;
+    position: absolute;
+    top: 599px;
+    left: 140px;
+    line-height: 19px;
+    text-align: center;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>div.text>p{
+    font-family: samsungsans;
+    font-size: 12px;
+    color: rgb(86, 86, 86);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>button{
+    border-radius: 20px;
+    width: 101px;
+    height: 40px;
+    font-family: samsungsans;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    position: absolute;
+    top: 258px;
+    left: 145px;
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1>button:hover{
+    background-color: rgb(83, 82, 82);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>button{
+    border-radius: 20px;
+    width: 101px;
+    height: 40px;
+    font-family: samsungsans;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    position: absolute;
+    top: 608px;
+    left: 145px;
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2>button:hover{
+    background-color: rgb(83, 82, 82);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>button{
+    border-radius: 20px;
+    width: 101px;
+    height: 40px;
+    font-family: samsungsans;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    position: absolute;
+    top: 258px;
+    left: 115px;
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4>button:hover{
+    background-color: rgb(83, 82, 82);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>button{
+    border-radius: 20px;
+    width: 101px;
+    height: 40px;
+    font-family: samsungsans;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    position: absolute;
+    top: 258px;
+    left: 115px;
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5>button:hover{
+    background-color: rgb(83, 82, 82);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>button{
+    border-radius: 20px;
+    width: 101px;
+    height: 40px;
+    font-family: samsungsans;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    position: absolute;
+    top: 620px;
+    left: 290px;
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3>button:hover{
+    background-color: rgb(83, 82, 82);
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1:hover>button{
+    display: inline-block;    
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1:hover>div.text{
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box1:hover{
+    cursor: pointer;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2:hover{
+    cursor: pointer;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3:hover{
+    cursor: pointer;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4:hover{
+    cursor: pointer;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5:hover{
+    cursor: pointer;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2:hover>button{
+    display: inline-block;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box2:hover>div.text{
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3:hover>button{
+    display: inline-block;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box3:hover>div.text{
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4:hover>button{
+    display: inline-block;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box4:hover>div.text{
+    display: none;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5:hover>button{
+    display: inline-block;
+}
+div.wrapper>div.latest-offers>div.pictures>div.box5:hover>div.text{
+    display: none;
+}

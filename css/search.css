@@ -1,0 +1,64 @@
+div.wrapper>div.search{
+    width: 1440px;
+    height: 322px;
+    margin-left: 39.5px;
+    background-color:white;
+    padding-top: 50px;
+}
+div.wrapper>div.search>div.head{
+    width: 1392px;
+    height: 52px;
+    margin: 0 auto;
+    text-align: center;
+}
+div.wrapper>div.search>div.head>h1{
+    font-size: 36px;
+    font-family: samsungsans;
+    font-weight: 100;
+}
+div.wrapper>div.search>div.search-box{
+    width: 600px;
+    height: 66px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+div.wrapper>div.search>div.search-box>input{
+    padding-left: 70px;
+    width: 448px;
+    height: 49.6px;
+    font-family: samsungsans;
+    font-size: 18px;
+    border-radius: 20px;
+    background-color:#f7f7f7;
+    border: 1px solid #b9b2b2;
+}
+div.wrapper>div.search>div.search-box>i{
+    position: absolute;
+    left: 100px;
+    top: 12px;
+    font-size: 22px;
+}
+div.wrapper>div.search>div.button{
+    width: 600px;
+    height: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+div.wrapper>div.search>div.button>button{
+    height: 30px;
+    width: fit-content;
+    padding: 0 20px;
+    border-radius: 20px;
+    border:1px solid #b9b2b2;
+    background-color:#fdfdfd;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 500ms;
+}
+div.wrapper>div.search>div.button>button:nth-last-of-type(1){
+    margin-top: 8px;
+}
+div.wrapper>div.search>div.button>button:hover{
+    background-color:#e8e4e4;
+}

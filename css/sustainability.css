@@ -1,0 +1,95 @@
+div.wrapper>div.sustainability{
+    width: 1440px;
+    height: 810px;
+    margin-left: 39.5px;
+    background-image: url(../img/sustainability-1-dt.avif);
+    padding-top: 50px;
+    position: relative;
+}
+div.wrapper>div.sustainability>div.head{
+    width: 1392px;
+    height: 45.6px;
+    margin: 0 auto;
+    text-align: center;
+}
+div.wrapper>div.sustainability>div.head>h1{
+    font-size: 38px;
+    font-family: samsungsans;
+    color: white;
+    font-weight: 100;
+}
+div.wrapper>div.sustainability>div.menu{
+    width: 100%;
+    height: 46px;
+    padding-top: 20px;
+}
+div.wrapper>div.sustainability>div.menu>nav{
+    width: 100%;
+}
+div.wrapper>div.sustainability>div.menu>nav>ul{
+    width: 100%;
+    text-align: center;
+
+}
+div.wrapper>div.sustainability>div.menu>nav>ul>li{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 30px;
+}
+div.wrapper>div.sustainability>div.menu>nav>ul>li>a{
+    color: white;
+    font-family: samsungsans;
+    font-size: 18px;
+}
+div.wrapper>div.sustainability>div.menu>nav>ul>li:nth-of-type(1)>a{
+    text-decoration: underline;
+}
+div.wrapper>div.sustainability>div.text1{
+    width: 100%;
+    height: 57.6px;
+    text-align: center;
+    position: absolute;
+    top: 620px;
+    line-height: 57.6px;
+}
+div.wrapper>div.sustainability>div.text1>p{
+    font-family: samsungsans;
+    font-size: 50px;
+    color: white;
+}
+div.wrapper>div.sustainability>div.text2{
+    width: 100%;
+    height: 23.94px;
+    text-align: center;
+    position: absolute;
+    top: 690px;
+    line-height: 23.94px;
+}
+div.wrapper>div.sustainability>div.text2>p{
+    font-family: samsungsans;
+    font-size: 16px;
+    color: white;
+}
+div.wrapper>div.sustainability>div.button{
+    width: 100%;
+    height: 88px;
+    text-align: center;
+    position: absolute;
+    top: 725px;
+}
+div.wrapper>div.sustainability>div.button>button{
+    border-radius: 20px;
+    width: 118.69px;
+    height: 40px;
+    font-family: samsungsans;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    transition: 500ms;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+div.wrapper>div.sustainability>div.button>button:hover{
+    background-color: rgb(202, 206, 211);
+}

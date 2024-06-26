@@ -1,0 +1,15 @@
+@font-face {
+    font-family: samsungsans;
+    src: url(../font/samsungsharpsans-medium.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+div.wrapper{
+    width: 100%;
+}
